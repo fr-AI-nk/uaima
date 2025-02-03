@@ -36,11 +36,7 @@ Please feel free to submit your own ideas of classification... the more the merr
 As mentioned before... I have actually no idea (yet) how to proceed. Or if this is even possible. But hey, that's also up to you and your contributing ideas :smile: 
 Also, this is part of my course at https://buildingai.elementsofai.com/Conclusion/your-ai-idea, and I think it is out of the box enough!
 
-<!---
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+<img src="220px-Mandel_zoom_07_satellite.jpg" width="300" height="300"> <img src="Regular_tetrahedron_inscribed_in_a_sphere.svg.png" width="300" height="300"> <img src="FreeBurnsideGroupExp3Gens2.png" width="300" height="300"> 
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
--->
+###### _Images 'borrowed' from the aformentioned wikipedia page_
+
